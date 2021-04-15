@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unrd</string>
+    <string name="videoListFragmentTitle">Video List</string>
+    <string name="intro_video">Intro Video</string>
+    <string name="preview_video">Preview Video</string>
+    <string name="Video_fragment_title">Video Player</string>
+    <string name="home_fragment_title">Home</string>
+    <string name="webview_fragment_title">UNRD Website</string>
+    <string name="drawer_title">UNRD STORIES</string>
+    <string name="videos_label">Videos</string>
+    <string name="createdBy">Created by: HH Factory</string>
+    <string name="versionLabel">Version:</string>
+    <string name="characters">CHARACTERS</string>
+    <string name="minAge">Minimum Age:</string>
+    <string name="duration">Duration:</string>
+    <string name="internet_error">There is problem with internet connection. Try again later.</string>
+</resources>
